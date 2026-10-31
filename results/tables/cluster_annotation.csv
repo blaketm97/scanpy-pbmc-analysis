@@ -1,0 +1,10 @@
+leiden,n_cells,cell_type,top_score,runner_up,runner_up_score,margin,confidence
+0,632,Naive CD4 T,0.108,Memory CD4 T,0.093,0.014,review
+1,527,Memory CD4 T,0.539,Naive CD4 T,-0.02,0.559,high
+2,327,B,1.455,Platelet,-0.027,1.481,high
+3,309,CD8 T,0.846,NK,0.705,0.142,review
+4,203,FCGR3A Monocyte,1.7,CD14 Monocyte,0.695,1.006,high
+5,139,NK,2.643,Platelet,-0.065,2.708,high
+6,422,CD14 Monocyte,2.798,FCGR3A Monocyte,0.452,2.346,high
+7,33,Dendritic,1.598,CD14 Monocyte,0.71,0.888,high
+8,15,Platelet,4.371,CD8 T,0.443,3.928,high

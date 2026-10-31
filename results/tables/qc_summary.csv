@@ -1,0 +1,12 @@
+step,count
+Cells loaded,2700
+Genes loaded,32738
+Cells with < 200 genes,0
+Cells with > 2500 genes,5
+Cells with > 5% mitochondrial reads,57
+Cells removed by fixed QC (any rule),62
+Cells flagged by 5-MAD rule (for comparison),85
+Genes removed (in < 3 cells),19082
+Predicted doublets removed (Scrublet),31
+Cells retained,2607
+Genes retained,13656

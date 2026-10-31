@@ -1,0 +1,20 @@
+leiden,call,candidate,gene,mean_expr_in_cluster,mean_expr_elsewhere,pct_cells_expressing
+0,Naive CD4 T,Naive CD4 T,IL7R,1.27,0.74,58.1
+0,Naive CD4 T,Naive CD4 T,CCR7,0.93,0.19,47.2
+0,Naive CD4 T,Naive CD4 T,LEF1,0.69,0.17,36.2
+0,Naive CD4 T,Naive CD4 T,TCF7,0.72,0.32,38.8
+0,Naive CD4 T,Naive CD4 T,CD4,0.11,0.22,6.2
+0,Naive CD4 T,Memory CD4 T,IL7R,1.27,0.74,58.1
+0,Naive CD4 T,Memory CD4 T,S100A4,1.57,2.96,65.8
+0,Naive CD4 T,Memory CD4 T,AQP3,0.42,0.28,22.0
+0,Naive CD4 T,Memory CD4 T,CD40LG,0.25,0.16,14.4
+0,Naive CD4 T,Memory CD4 T,CD4,0.11,0.22,6.2
+3,CD8 T,CD8 T,CD8A,1.04,0.13,48.2
+3,CD8 T,CD8 T,CD8B,0.84,0.2,36.6
+3,CD8 T,CD8 T,CCL5,3.57,0.57,93.9
+3,CD8 T,CD8 T,GZMK,1.6,0.11,57.9
+3,CD8 T,NK,GNLY,1.13,0.42,34.3
+3,CD8 T,NK,NKG7,3.51,0.55,96.4
+3,CD8 T,NK,GZMB,0.83,0.28,31.7
+3,CD8 T,NK,PRF1,1.11,0.28,49.5
+3,CD8 T,NK,KLRD1,0.38,0.09,19.4

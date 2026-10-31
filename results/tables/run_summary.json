@@ -1,0 +1,23 @@
+{
+  "cells_retained": 2607,
+  "genes_retained": 13656,
+  "highly_variable_genes": 2000,
+  "leiden_resolution": 1.0,
+  "n_clusters": 9,
+  "n_cell_types": 9,
+  "clusters_needing_review": [
+    "0",
+    "3"
+  ],
+  "versions": {
+    "scanpy": "1.12.5",
+    "anndata": "0.13.4",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.1",
+    "leidenalg": "0.12.0",
+    "igraph": "1.0.0",
+    "matplotlib": "3.11.2"
+  },
+  "python": "3.13.18"
+}
